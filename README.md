@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ezio Intravaia
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning GraphQL
